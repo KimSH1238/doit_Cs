@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\44p_variables\44p_variables\obj\Debug\net8.0\44p_variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\44p_variables\44p_variables\obj\Debug\net8.0\44p_variables.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\44p_variables\44p_variables\obj\Debug\net8.0\44p_variables.AssemblyInfo.cs
+C:\Users\USER\programming\c#\44p_variables\44p_variables\obj\Debug\net8.0\44p_variables.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\44p_variables\44p_variables\bin\Debug\net8.0\44p_variables.exe
+C:\Users\USER\programming\c#\44p_variables\44p_variables\bin\Debug\net8.0\44p_variables.deps.json
+C:\Users\USER\programming\c#\44p_variables\44p_variables\bin\Debug\net8.0\44p_variables.runtimeconfig.json
+C:\Users\USER\programming\c#\44p_variables\44p_variables\bin\Debug\net8.0\44p_variables.dll
+C:\Users\USER\programming\c#\44p_variables\44p_variables\bin\Debug\net8.0\44p_variables.pdb
+C:\Users\USER\programming\c#\44p_variables\44p_variables\obj\Debug\net8.0\44p_variables.dll
+C:\Users\USER\programming\c#\44p_variables\44p_variables\obj\Debug\net8.0\refint\44p_variables.dll
+C:\Users\USER\programming\c#\44p_variables\44p_variables\obj\Debug\net8.0\44p_variables.pdb
+C:\Users\USER\programming\c#\44p_variables\44p_variables\obj\Debug\net8.0\44p_variables.genruntimeconfig.cache
+C:\Users\USER\programming\c#\44p_variables\44p_variables\obj\Debug\net8.0\ref\44p_variables.dll
