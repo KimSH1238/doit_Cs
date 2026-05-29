@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\53p_whilei\53p_whilei\obj\Debug\net8.0\53p_whilei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\53p_whilei\53p_whilei\obj\Debug\net8.0\53p_whilei.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\53p_whilei\53p_whilei\obj\Debug\net8.0\53p_whilei.AssemblyInfo.cs
+C:\Users\USER\programming\c#\53p_whilei\53p_whilei\obj\Debug\net8.0\53p_whilei.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\53p_whilei\53p_whilei\bin\Debug\net8.0\53p_whilei.exe
+C:\Users\USER\programming\c#\53p_whilei\53p_whilei\bin\Debug\net8.0\53p_whilei.deps.json
+C:\Users\USER\programming\c#\53p_whilei\53p_whilei\bin\Debug\net8.0\53p_whilei.runtimeconfig.json
+C:\Users\USER\programming\c#\53p_whilei\53p_whilei\bin\Debug\net8.0\53p_whilei.dll
+C:\Users\USER\programming\c#\53p_whilei\53p_whilei\bin\Debug\net8.0\53p_whilei.pdb
+C:\Users\USER\programming\c#\53p_whilei\53p_whilei\obj\Debug\net8.0\53p_whilei.dll
+C:\Users\USER\programming\c#\53p_whilei\53p_whilei\obj\Debug\net8.0\refint\53p_whilei.dll
+C:\Users\USER\programming\c#\53p_whilei\53p_whilei\obj\Debug\net8.0\53p_whilei.pdb
+C:\Users\USER\programming\c#\53p_whilei\53p_whilei\obj\Debug\net8.0\53p_whilei.genruntimeconfig.cache
+C:\Users\USER\programming\c#\53p_whilei\53p_whilei\obj\Debug\net8.0\ref\53p_whilei.dll

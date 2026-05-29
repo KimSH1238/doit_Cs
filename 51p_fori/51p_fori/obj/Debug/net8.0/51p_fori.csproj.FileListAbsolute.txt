@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\51p_fori\51p_fori\obj\Debug\net8.0\51p_fori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\51p_fori\51p_fori\obj\Debug\net8.0\51p_fori.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\51p_fori\51p_fori\obj\Debug\net8.0\51p_fori.AssemblyInfo.cs
+C:\Users\USER\programming\c#\51p_fori\51p_fori\obj\Debug\net8.0\51p_fori.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\51p_fori\51p_fori\bin\Debug\net8.0\51p_fori.exe
+C:\Users\USER\programming\c#\51p_fori\51p_fori\bin\Debug\net8.0\51p_fori.deps.json
+C:\Users\USER\programming\c#\51p_fori\51p_fori\bin\Debug\net8.0\51p_fori.runtimeconfig.json
+C:\Users\USER\programming\c#\51p_fori\51p_fori\bin\Debug\net8.0\51p_fori.dll
+C:\Users\USER\programming\c#\51p_fori\51p_fori\bin\Debug\net8.0\51p_fori.pdb
+C:\Users\USER\programming\c#\51p_fori\51p_fori\obj\Debug\net8.0\51p_fori.dll
+C:\Users\USER\programming\c#\51p_fori\51p_fori\obj\Debug\net8.0\refint\51p_fori.dll
+C:\Users\USER\programming\c#\51p_fori\51p_fori\obj\Debug\net8.0\51p_fori.pdb
+C:\Users\USER\programming\c#\51p_fori\51p_fori\obj\Debug\net8.0\51p_fori.genruntimeconfig.cache
+C:\Users\USER\programming\c#\51p_fori\51p_fori\obj\Debug\net8.0\ref\51p_fori.dll

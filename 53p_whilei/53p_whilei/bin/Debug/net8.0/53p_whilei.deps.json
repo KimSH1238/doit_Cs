@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "53p_whilei/1.0.0": {
+        "runtime": {
+          "53p_whilei.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "53p_whilei/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
