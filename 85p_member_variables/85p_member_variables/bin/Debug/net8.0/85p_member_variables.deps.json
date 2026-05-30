@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "85p_member_variables/1.0.0": {
+        "runtime": {
+          "85p_member_variables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "85p_member_variables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
