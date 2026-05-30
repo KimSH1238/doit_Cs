@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\82p_class_heritage\82p_class_heritage\obj\Debug\net8.0\82p_class_heritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\82p_class_heritage\82p_class_heritage\obj\Debug\net8.0\82p_class_heritage.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\82p_class_heritage\82p_class_heritage\obj\Debug\net8.0\82p_class_heritage.AssemblyInfo.cs
+C:\Users\USER\programming\c#\82p_class_heritage\82p_class_heritage\obj\Debug\net8.0\82p_class_heritage.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\82p_class_heritage\82p_class_heritage\bin\Debug\net8.0\82p_class_heritage.exe
+C:\Users\USER\programming\c#\82p_class_heritage\82p_class_heritage\bin\Debug\net8.0\82p_class_heritage.deps.json
+C:\Users\USER\programming\c#\82p_class_heritage\82p_class_heritage\bin\Debug\net8.0\82p_class_heritage.runtimeconfig.json
+C:\Users\USER\programming\c#\82p_class_heritage\82p_class_heritage\bin\Debug\net8.0\82p_class_heritage.dll
+C:\Users\USER\programming\c#\82p_class_heritage\82p_class_heritage\bin\Debug\net8.0\82p_class_heritage.pdb
+C:\Users\USER\programming\c#\82p_class_heritage\82p_class_heritage\obj\Debug\net8.0\82p_class_heritage.dll
+C:\Users\USER\programming\c#\82p_class_heritage\82p_class_heritage\obj\Debug\net8.0\refint\82p_class_heritage.dll
+C:\Users\USER\programming\c#\82p_class_heritage\82p_class_heritage\obj\Debug\net8.0\82p_class_heritage.pdb
+C:\Users\USER\programming\c#\82p_class_heritage\82p_class_heritage\obj\Debug\net8.0\82p_class_heritage.genruntimeconfig.cache
+C:\Users\USER\programming\c#\82p_class_heritage\82p_class_heritage\obj\Debug\net8.0\ref\82p_class_heritage.dll
