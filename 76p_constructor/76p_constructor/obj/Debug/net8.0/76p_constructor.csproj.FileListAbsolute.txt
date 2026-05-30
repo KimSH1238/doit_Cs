@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\76p_constructor\76p_constructor\obj\Debug\net8.0\76p_constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\76p_constructor\76p_constructor\obj\Debug\net8.0\76p_constructor.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\76p_constructor\76p_constructor\obj\Debug\net8.0\76p_constructor.AssemblyInfo.cs
+C:\Users\USER\programming\c#\76p_constructor\76p_constructor\obj\Debug\net8.0\76p_constructor.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\76p_constructor\76p_constructor\bin\Debug\net8.0\76p_constructor.exe
+C:\Users\USER\programming\c#\76p_constructor\76p_constructor\bin\Debug\net8.0\76p_constructor.deps.json
+C:\Users\USER\programming\c#\76p_constructor\76p_constructor\bin\Debug\net8.0\76p_constructor.runtimeconfig.json
+C:\Users\USER\programming\c#\76p_constructor\76p_constructor\bin\Debug\net8.0\76p_constructor.dll
+C:\Users\USER\programming\c#\76p_constructor\76p_constructor\bin\Debug\net8.0\76p_constructor.pdb
+C:\Users\USER\programming\c#\76p_constructor\76p_constructor\obj\Debug\net8.0\76p_constructor.dll
+C:\Users\USER\programming\c#\76p_constructor\76p_constructor\obj\Debug\net8.0\refint\76p_constructor.dll
+C:\Users\USER\programming\c#\76p_constructor\76p_constructor\obj\Debug\net8.0\76p_constructor.pdb
+C:\Users\USER\programming\c#\76p_constructor\76p_constructor\obj\Debug\net8.0\76p_constructor.genruntimeconfig.cache
+C:\Users\USER\programming\c#\76p_constructor\76p_constructor\obj\Debug\net8.0\ref\76p_constructor.dll
