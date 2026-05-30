@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\79P_destructor\79P_destructor\obj\Debug\net8.0\79P_destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\79P_destructor\79P_destructor\obj\Debug\net8.0\79P_destructor.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\79P_destructor\79P_destructor\obj\Debug\net8.0\79P_destructor.AssemblyInfo.cs
+C:\Users\USER\programming\c#\79P_destructor\79P_destructor\obj\Debug\net8.0\79P_destructor.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\79P_destructor\79P_destructor\bin\Debug\net8.0\79P_destructor.exe
+C:\Users\USER\programming\c#\79P_destructor\79P_destructor\bin\Debug\net8.0\79P_destructor.deps.json
+C:\Users\USER\programming\c#\79P_destructor\79P_destructor\bin\Debug\net8.0\79P_destructor.runtimeconfig.json
+C:\Users\USER\programming\c#\79P_destructor\79P_destructor\bin\Debug\net8.0\79P_destructor.dll
+C:\Users\USER\programming\c#\79P_destructor\79P_destructor\bin\Debug\net8.0\79P_destructor.pdb
+C:\Users\USER\programming\c#\79P_destructor\79P_destructor\obj\Debug\net8.0\79P_destructor.dll
+C:\Users\USER\programming\c#\79P_destructor\79P_destructor\obj\Debug\net8.0\refint\79P_destructor.dll
+C:\Users\USER\programming\c#\79P_destructor\79P_destructor\obj\Debug\net8.0\79P_destructor.pdb
+C:\Users\USER\programming\c#\79P_destructor\79P_destructor\obj\Debug\net8.0\79P_destructor.genruntimeconfig.cache
+C:\Users\USER\programming\c#\79P_destructor\79P_destructor\obj\Debug\net8.0\ref\79P_destructor.dll
