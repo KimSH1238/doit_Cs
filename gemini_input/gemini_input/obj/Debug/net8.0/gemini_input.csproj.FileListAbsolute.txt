@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\gemini_input\gemini_input\obj\Debug\net8.0\gemini_input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\gemini_input\gemini_input\obj\Debug\net8.0\gemini_input.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\gemini_input\gemini_input\obj\Debug\net8.0\gemini_input.AssemblyInfo.cs
+C:\Users\USER\programming\c#\gemini_input\gemini_input\obj\Debug\net8.0\gemini_input.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\gemini_input\gemini_input\bin\Debug\net8.0\gemini_input.exe
+C:\Users\USER\programming\c#\gemini_input\gemini_input\bin\Debug\net8.0\gemini_input.deps.json
+C:\Users\USER\programming\c#\gemini_input\gemini_input\bin\Debug\net8.0\gemini_input.runtimeconfig.json
+C:\Users\USER\programming\c#\gemini_input\gemini_input\bin\Debug\net8.0\gemini_input.dll
+C:\Users\USER\programming\c#\gemini_input\gemini_input\bin\Debug\net8.0\gemini_input.pdb
+C:\Users\USER\programming\c#\gemini_input\gemini_input\obj\Debug\net8.0\gemini_input.dll
+C:\Users\USER\programming\c#\gemini_input\gemini_input\obj\Debug\net8.0\refint\gemini_input.dll
+C:\Users\USER\programming\c#\gemini_input\gemini_input\obj\Debug\net8.0\gemini_input.pdb
+C:\Users\USER\programming\c#\gemini_input\gemini_input\obj\Debug\net8.0\gemini_input.genruntimeconfig.cache
+C:\Users\USER\programming\c#\gemini_input\gemini_input\obj\Debug\net8.0\ref\gemini_input.dll

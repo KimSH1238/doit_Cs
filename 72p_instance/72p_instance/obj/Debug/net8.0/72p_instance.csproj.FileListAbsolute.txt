@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\72p_instance\72p_instance\obj\Debug\net8.0\72p_instance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\72p_instance\72p_instance\obj\Debug\net8.0\72p_instance.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\72p_instance\72p_instance\obj\Debug\net8.0\72p_instance.AssemblyInfo.cs
+C:\Users\USER\programming\c#\72p_instance\72p_instance\obj\Debug\net8.0\72p_instance.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\72p_instance\72p_instance\bin\Debug\net8.0\72p_instance.exe
+C:\Users\USER\programming\c#\72p_instance\72p_instance\bin\Debug\net8.0\72p_instance.deps.json
+C:\Users\USER\programming\c#\72p_instance\72p_instance\bin\Debug\net8.0\72p_instance.runtimeconfig.json
+C:\Users\USER\programming\c#\72p_instance\72p_instance\bin\Debug\net8.0\72p_instance.dll
+C:\Users\USER\programming\c#\72p_instance\72p_instance\bin\Debug\net8.0\72p_instance.pdb
+C:\Users\USER\programming\c#\72p_instance\72p_instance\obj\Debug\net8.0\72p_instance.dll
+C:\Users\USER\programming\c#\72p_instance\72p_instance\obj\Debug\net8.0\refint\72p_instance.dll
+C:\Users\USER\programming\c#\72p_instance\72p_instance\obj\Debug\net8.0\72p_instance.pdb
+C:\Users\USER\programming\c#\72p_instance\72p_instance\obj\Debug\net8.0\72p_instance.genruntimeconfig.cache
+C:\Users\USER\programming\c#\72p_instance\72p_instance\obj\Debug\net8.0\ref\72p_instance.dll
