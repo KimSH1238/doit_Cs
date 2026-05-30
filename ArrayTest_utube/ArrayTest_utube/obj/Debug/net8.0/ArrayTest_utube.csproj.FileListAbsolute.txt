@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\ArrayTest_utube\ArrayTest_utube\obj\Debug\net8.0\ArrayTest_utube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\ArrayTest_utube\ArrayTest_utube\obj\Debug\net8.0\ArrayTest_utube.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\ArrayTest_utube\ArrayTest_utube\obj\Debug\net8.0\ArrayTest_utube.AssemblyInfo.cs
+C:\Users\USER\programming\c#\ArrayTest_utube\ArrayTest_utube\obj\Debug\net8.0\ArrayTest_utube.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\ArrayTest_utube\ArrayTest_utube\bin\Debug\net8.0\ArrayTest_utube.exe
+C:\Users\USER\programming\c#\ArrayTest_utube\ArrayTest_utube\bin\Debug\net8.0\ArrayTest_utube.deps.json
+C:\Users\USER\programming\c#\ArrayTest_utube\ArrayTest_utube\bin\Debug\net8.0\ArrayTest_utube.runtimeconfig.json
+C:\Users\USER\programming\c#\ArrayTest_utube\ArrayTest_utube\bin\Debug\net8.0\ArrayTest_utube.dll
+C:\Users\USER\programming\c#\ArrayTest_utube\ArrayTest_utube\bin\Debug\net8.0\ArrayTest_utube.pdb
+C:\Users\USER\programming\c#\ArrayTest_utube\ArrayTest_utube\obj\Debug\net8.0\ArrayTest_utube.dll
+C:\Users\USER\programming\c#\ArrayTest_utube\ArrayTest_utube\obj\Debug\net8.0\refint\ArrayTest_utube.dll
+C:\Users\USER\programming\c#\ArrayTest_utube\ArrayTest_utube\obj\Debug\net8.0\ArrayTest_utube.pdb
+C:\Users\USER\programming\c#\ArrayTest_utube\ArrayTest_utube\obj\Debug\net8.0\ArrayTest_utube.genruntimeconfig.cache
+C:\Users\USER\programming\c#\ArrayTest_utube\ArrayTest_utube\obj\Debug\net8.0\ref\ArrayTest_utube.dll

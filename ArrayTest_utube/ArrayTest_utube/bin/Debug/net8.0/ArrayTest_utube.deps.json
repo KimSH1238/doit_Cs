@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArrayTest_utube/1.0.0": {
+        "runtime": {
+          "ArrayTest_utube.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayTest_utube/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
