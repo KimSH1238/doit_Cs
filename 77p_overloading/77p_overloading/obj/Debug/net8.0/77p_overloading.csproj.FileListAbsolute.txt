@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\77p_overloading\77p_overloading\obj\Debug\net8.0\77p_overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\77p_overloading\77p_overloading\obj\Debug\net8.0\77p_overloading.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\77p_overloading\77p_overloading\obj\Debug\net8.0\77p_overloading.AssemblyInfo.cs
+C:\Users\USER\programming\c#\77p_overloading\77p_overloading\obj\Debug\net8.0\77p_overloading.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\77p_overloading\77p_overloading\bin\Debug\net8.0\77p_overloading.exe
+C:\Users\USER\programming\c#\77p_overloading\77p_overloading\bin\Debug\net8.0\77p_overloading.deps.json
+C:\Users\USER\programming\c#\77p_overloading\77p_overloading\bin\Debug\net8.0\77p_overloading.runtimeconfig.json
+C:\Users\USER\programming\c#\77p_overloading\77p_overloading\bin\Debug\net8.0\77p_overloading.dll
+C:\Users\USER\programming\c#\77p_overloading\77p_overloading\bin\Debug\net8.0\77p_overloading.pdb
+C:\Users\USER\programming\c#\77p_overloading\77p_overloading\obj\Debug\net8.0\77p_overloading.dll
+C:\Users\USER\programming\c#\77p_overloading\77p_overloading\obj\Debug\net8.0\refint\77p_overloading.dll
+C:\Users\USER\programming\c#\77p_overloading\77p_overloading\obj\Debug\net8.0\77p_overloading.pdb
+C:\Users\USER\programming\c#\77p_overloading\77p_overloading\obj\Debug\net8.0\77p_overloading.genruntimeconfig.cache
+C:\Users\USER\programming\c#\77p_overloading\77p_overloading\obj\Debug\net8.0\ref\77p_overloading.dll

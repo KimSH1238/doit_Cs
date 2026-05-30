@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\gemini_constructor_input\gemini_constructor_input\obj\Debug\net8.0\gemini_constructor_input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\gemini_constructor_input\gemini_constructor_input\obj\Debug\net8.0\gemini_constructor_input.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\gemini_constructor_input\gemini_constructor_input\obj\Debug\net8.0\gemini_constructor_input.AssemblyInfo.cs
+C:\Users\USER\programming\c#\gemini_constructor_input\gemini_constructor_input\obj\Debug\net8.0\gemini_constructor_input.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\gemini_constructor_input\gemini_constructor_input\bin\Debug\net8.0\gemini_constructor_input.exe
+C:\Users\USER\programming\c#\gemini_constructor_input\gemini_constructor_input\bin\Debug\net8.0\gemini_constructor_input.deps.json
+C:\Users\USER\programming\c#\gemini_constructor_input\gemini_constructor_input\bin\Debug\net8.0\gemini_constructor_input.runtimeconfig.json
+C:\Users\USER\programming\c#\gemini_constructor_input\gemini_constructor_input\bin\Debug\net8.0\gemini_constructor_input.dll
+C:\Users\USER\programming\c#\gemini_constructor_input\gemini_constructor_input\bin\Debug\net8.0\gemini_constructor_input.pdb
+C:\Users\USER\programming\c#\gemini_constructor_input\gemini_constructor_input\obj\Debug\net8.0\gemini_constructor_input.dll
+C:\Users\USER\programming\c#\gemini_constructor_input\gemini_constructor_input\obj\Debug\net8.0\refint\gemini_constructor_input.dll
+C:\Users\USER\programming\c#\gemini_constructor_input\gemini_constructor_input\obj\Debug\net8.0\gemini_constructor_input.pdb
+C:\Users\USER\programming\c#\gemini_constructor_input\gemini_constructor_input\obj\Debug\net8.0\gemini_constructor_input.genruntimeconfig.cache
+C:\Users\USER\programming\c#\gemini_constructor_input\gemini_constructor_input\obj\Debug\net8.0\ref\gemini_constructor_input.dll
