@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\gemini_overloading_selction\gemini_overloading_selction\obj\Debug\net8.0\gemini_overloading_selction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\gemini_overloading_selction\gemini_overloading_selction\obj\Debug\net8.0\gemini_overloading_selction.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\gemini_overloading_selction\gemini_overloading_selction\obj\Debug\net8.0\gemini_overloading_selction.AssemblyInfo.cs
+C:\Users\USER\programming\c#\gemini_overloading_selction\gemini_overloading_selction\obj\Debug\net8.0\gemini_overloading_selction.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\gemini_overloading_selction\gemini_overloading_selction\bin\Debug\net8.0\gemini_overloading_selction.exe
+C:\Users\USER\programming\c#\gemini_overloading_selction\gemini_overloading_selction\bin\Debug\net8.0\gemini_overloading_selction.deps.json
+C:\Users\USER\programming\c#\gemini_overloading_selction\gemini_overloading_selction\bin\Debug\net8.0\gemini_overloading_selction.runtimeconfig.json
+C:\Users\USER\programming\c#\gemini_overloading_selction\gemini_overloading_selction\bin\Debug\net8.0\gemini_overloading_selction.dll
+C:\Users\USER\programming\c#\gemini_overloading_selction\gemini_overloading_selction\bin\Debug\net8.0\gemini_overloading_selction.pdb
+C:\Users\USER\programming\c#\gemini_overloading_selction\gemini_overloading_selction\obj\Debug\net8.0\gemini_overloading_selction.dll
+C:\Users\USER\programming\c#\gemini_overloading_selction\gemini_overloading_selction\obj\Debug\net8.0\refint\gemini_overloading_selction.dll
+C:\Users\USER\programming\c#\gemini_overloading_selction\gemini_overloading_selction\obj\Debug\net8.0\gemini_overloading_selction.pdb
+C:\Users\USER\programming\c#\gemini_overloading_selction\gemini_overloading_selction\obj\Debug\net8.0\gemini_overloading_selction.genruntimeconfig.cache
+C:\Users\USER\programming\c#\gemini_overloading_selction\gemini_overloading_selction\obj\Debug\net8.0\ref\gemini_overloading_selction.dll
