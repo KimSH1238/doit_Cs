@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\49p_ifelse\49p_ifelse\obj\Debug\net8.0\49p_ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\49p_ifelse\49p_ifelse\obj\Debug\net8.0\49p_ifelse.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\49p_ifelse\49p_ifelse\obj\Debug\net8.0\49p_ifelse.AssemblyInfo.cs
+C:\Users\USER\programming\c#\49p_ifelse\49p_ifelse\obj\Debug\net8.0\49p_ifelse.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\49p_ifelse\49p_ifelse\bin\Debug\net8.0\49p_ifelse.exe
+C:\Users\USER\programming\c#\49p_ifelse\49p_ifelse\bin\Debug\net8.0\49p_ifelse.deps.json
+C:\Users\USER\programming\c#\49p_ifelse\49p_ifelse\bin\Debug\net8.0\49p_ifelse.runtimeconfig.json
+C:\Users\USER\programming\c#\49p_ifelse\49p_ifelse\bin\Debug\net8.0\49p_ifelse.dll
+C:\Users\USER\programming\c#\49p_ifelse\49p_ifelse\bin\Debug\net8.0\49p_ifelse.pdb
+C:\Users\USER\programming\c#\49p_ifelse\49p_ifelse\obj\Debug\net8.0\49p_ifelse.dll
+C:\Users\USER\programming\c#\49p_ifelse\49p_ifelse\obj\Debug\net8.0\refint\49p_ifelse.dll
+C:\Users\USER\programming\c#\49p_ifelse\49p_ifelse\obj\Debug\net8.0\49p_ifelse.pdb
+C:\Users\USER\programming\c#\49p_ifelse\49p_ifelse\obj\Debug\net8.0\49p_ifelse.genruntimeconfig.cache
+C:\Users\USER\programming\c#\49p_ifelse\49p_ifelse\obj\Debug\net8.0\ref\49p_ifelse.dll

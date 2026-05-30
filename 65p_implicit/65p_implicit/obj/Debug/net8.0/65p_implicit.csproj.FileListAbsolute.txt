@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\65p_implicit\65p_implicit\bin\Debug\net8.0\65p_implicit.exe
+C:\Users\USER\programming\c#\65p_implicit\65p_implicit\bin\Debug\net8.0\65p_implicit.deps.json
+C:\Users\USER\programming\c#\65p_implicit\65p_implicit\bin\Debug\net8.0\65p_implicit.runtimeconfig.json
+C:\Users\USER\programming\c#\65p_implicit\65p_implicit\bin\Debug\net8.0\65p_implicit.dll
+C:\Users\USER\programming\c#\65p_implicit\65p_implicit\bin\Debug\net8.0\65p_implicit.pdb
+C:\Users\USER\programming\c#\65p_implicit\65p_implicit\obj\Debug\net8.0\65p_implicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\65p_implicit\65p_implicit\obj\Debug\net8.0\65p_implicit.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\65p_implicit\65p_implicit\obj\Debug\net8.0\65p_implicit.AssemblyInfo.cs
+C:\Users\USER\programming\c#\65p_implicit\65p_implicit\obj\Debug\net8.0\65p_implicit.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\65p_implicit\65p_implicit\obj\Debug\net8.0\65p_implicit.dll
+C:\Users\USER\programming\c#\65p_implicit\65p_implicit\obj\Debug\net8.0\refint\65p_implicit.dll
+C:\Users\USER\programming\c#\65p_implicit\65p_implicit\obj\Debug\net8.0\65p_implicit.pdb
+C:\Users\USER\programming\c#\65p_implicit\65p_implicit\obj\Debug\net8.0\65p_implicit.genruntimeconfig.cache
+C:\Users\USER\programming\c#\65p_implicit\65p_implicit\obj\Debug\net8.0\ref\65p_implicit.dll

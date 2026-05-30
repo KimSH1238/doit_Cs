@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\66p_explicit\66p_explicit\bin\Debug\net8.0\66p_explicit.exe
+C:\Users\USER\programming\c#\66p_explicit\66p_explicit\bin\Debug\net8.0\66p_explicit.deps.json
+C:\Users\USER\programming\c#\66p_explicit\66p_explicit\bin\Debug\net8.0\66p_explicit.runtimeconfig.json
+C:\Users\USER\programming\c#\66p_explicit\66p_explicit\bin\Debug\net8.0\66p_explicit.dll
+C:\Users\USER\programming\c#\66p_explicit\66p_explicit\bin\Debug\net8.0\66p_explicit.pdb
+C:\Users\USER\programming\c#\66p_explicit\66p_explicit\obj\Debug\net8.0\66p_explicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\66p_explicit\66p_explicit\obj\Debug\net8.0\66p_explicit.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\66p_explicit\66p_explicit\obj\Debug\net8.0\66p_explicit.AssemblyInfo.cs
+C:\Users\USER\programming\c#\66p_explicit\66p_explicit\obj\Debug\net8.0\66p_explicit.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\66p_explicit\66p_explicit\obj\Debug\net8.0\66p_explicit.dll
+C:\Users\USER\programming\c#\66p_explicit\66p_explicit\obj\Debug\net8.0\refint\66p_explicit.dll
+C:\Users\USER\programming\c#\66p_explicit\66p_explicit\obj\Debug\net8.0\66p_explicit.pdb
+C:\Users\USER\programming\c#\66p_explicit\66p_explicit\obj\Debug\net8.0\66p_explicit.genruntimeconfig.cache
+C:\Users\USER\programming\c#\66p_explicit\66p_explicit\obj\Debug\net8.0\ref\66p_explicit.dll
