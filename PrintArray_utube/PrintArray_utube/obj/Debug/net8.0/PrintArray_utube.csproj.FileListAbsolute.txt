@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\PrintArray_utube\PrintArray_utube\obj\Debug\net8.0\PrintArray_utube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\PrintArray_utube\PrintArray_utube\obj\Debug\net8.0\PrintArray_utube.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\PrintArray_utube\PrintArray_utube\obj\Debug\net8.0\PrintArray_utube.AssemblyInfo.cs
+C:\Users\USER\programming\c#\PrintArray_utube\PrintArray_utube\obj\Debug\net8.0\PrintArray_utube.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\PrintArray_utube\PrintArray_utube\bin\Debug\net8.0\PrintArray_utube.exe
+C:\Users\USER\programming\c#\PrintArray_utube\PrintArray_utube\bin\Debug\net8.0\PrintArray_utube.deps.json
+C:\Users\USER\programming\c#\PrintArray_utube\PrintArray_utube\bin\Debug\net8.0\PrintArray_utube.runtimeconfig.json
+C:\Users\USER\programming\c#\PrintArray_utube\PrintArray_utube\bin\Debug\net8.0\PrintArray_utube.dll
+C:\Users\USER\programming\c#\PrintArray_utube\PrintArray_utube\bin\Debug\net8.0\PrintArray_utube.pdb
+C:\Users\USER\programming\c#\PrintArray_utube\PrintArray_utube\obj\Debug\net8.0\PrintArray_utube.dll
+C:\Users\USER\programming\c#\PrintArray_utube\PrintArray_utube\obj\Debug\net8.0\refint\PrintArray_utube.dll
+C:\Users\USER\programming\c#\PrintArray_utube\PrintArray_utube\obj\Debug\net8.0\PrintArray_utube.pdb
+C:\Users\USER\programming\c#\PrintArray_utube\PrintArray_utube\obj\Debug\net8.0\PrintArray_utube.genruntimeconfig.cache
+C:\Users\USER\programming\c#\PrintArray_utube\PrintArray_utube\obj\Debug\net8.0\ref\PrintArray_utube.dll

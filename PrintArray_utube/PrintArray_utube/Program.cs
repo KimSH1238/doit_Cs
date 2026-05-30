@@ -14,12 +14,12 @@ namespace PrintingArray
             {
                 n[i] = i + 1;
             }
-            Printarray(n)
+            Printarray(n);
         }
         static void Printarray(int[] arr)
         {
             for (int i = 0; i < arr.Length; i++)
-                Console.WriteLine(arr[i])
+                Console.WriteLine(arr[i]);
         }
     }
 }
