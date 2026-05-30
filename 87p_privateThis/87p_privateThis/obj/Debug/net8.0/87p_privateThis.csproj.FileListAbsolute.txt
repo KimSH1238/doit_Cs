@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\87p_privateThis\87p_privateThis\obj\Debug\net8.0\87p_privateThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\87p_privateThis\87p_privateThis\obj\Debug\net8.0\87p_privateThis.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\87p_privateThis\87p_privateThis\obj\Debug\net8.0\87p_privateThis.AssemblyInfo.cs
+C:\Users\USER\programming\c#\87p_privateThis\87p_privateThis\obj\Debug\net8.0\87p_privateThis.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\87p_privateThis\87p_privateThis\bin\Debug\net8.0\87p_privateThis.exe
+C:\Users\USER\programming\c#\87p_privateThis\87p_privateThis\bin\Debug\net8.0\87p_privateThis.deps.json
+C:\Users\USER\programming\c#\87p_privateThis\87p_privateThis\bin\Debug\net8.0\87p_privateThis.runtimeconfig.json
+C:\Users\USER\programming\c#\87p_privateThis\87p_privateThis\bin\Debug\net8.0\87p_privateThis.dll
+C:\Users\USER\programming\c#\87p_privateThis\87p_privateThis\bin\Debug\net8.0\87p_privateThis.pdb
+C:\Users\USER\programming\c#\87p_privateThis\87p_privateThis\obj\Debug\net8.0\87p_privateThis.dll
+C:\Users\USER\programming\c#\87p_privateThis\87p_privateThis\obj\Debug\net8.0\refint\87p_privateThis.dll
+C:\Users\USER\programming\c#\87p_privateThis\87p_privateThis\obj\Debug\net8.0\87p_privateThis.pdb
+C:\Users\USER\programming\c#\87p_privateThis\87p_privateThis\obj\Debug\net8.0\87p_privateThis.genruntimeconfig.cache
+C:\Users\USER\programming\c#\87p_privateThis\87p_privateThis\obj\Debug\net8.0\ref\87p_privateThis.dll
