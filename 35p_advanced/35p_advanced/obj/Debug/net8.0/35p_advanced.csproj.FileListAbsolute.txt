@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\35p_advanced\35p_advanced\obj\Debug\net8.0\35p_advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\35p_advanced\35p_advanced\obj\Debug\net8.0\35p_advanced.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\35p_advanced\35p_advanced\obj\Debug\net8.0\35p_advanced.AssemblyInfo.cs
+C:\Users\USER\programming\c#\35p_advanced\35p_advanced\obj\Debug\net8.0\35p_advanced.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\35p_advanced\35p_advanced\bin\Debug\net8.0\35p_advanced.exe
+C:\Users\USER\programming\c#\35p_advanced\35p_advanced\bin\Debug\net8.0\35p_advanced.deps.json
+C:\Users\USER\programming\c#\35p_advanced\35p_advanced\bin\Debug\net8.0\35p_advanced.runtimeconfig.json
+C:\Users\USER\programming\c#\35p_advanced\35p_advanced\bin\Debug\net8.0\35p_advanced.dll
+C:\Users\USER\programming\c#\35p_advanced\35p_advanced\bin\Debug\net8.0\35p_advanced.pdb
+C:\Users\USER\programming\c#\35p_advanced\35p_advanced\obj\Debug\net8.0\35p_advanced.dll
+C:\Users\USER\programming\c#\35p_advanced\35p_advanced\obj\Debug\net8.0\refint\35p_advanced.dll
+C:\Users\USER\programming\c#\35p_advanced\35p_advanced\obj\Debug\net8.0\35p_advanced.pdb
+C:\Users\USER\programming\c#\35p_advanced\35p_advanced\obj\Debug\net8.0\35p_advanced.genruntimeconfig.cache
+C:\Users\USER\programming\c#\35p_advanced\35p_advanced\obj\Debug\net8.0\ref\35p_advanced.dll
