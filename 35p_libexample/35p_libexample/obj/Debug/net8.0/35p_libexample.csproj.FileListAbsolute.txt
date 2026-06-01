@@ -1,0 +1,14 @@
+C:\Users\USER\programming\cpp_cig\35p_libexample\35p_libexample\bin\Debug\net8.0\35p_libexample.exe
+C:\Users\USER\programming\cpp_cig\35p_libexample\35p_libexample\bin\Debug\net8.0\35p_libexample.deps.json
+C:\Users\USER\programming\cpp_cig\35p_libexample\35p_libexample\bin\Debug\net8.0\35p_libexample.runtimeconfig.json
+C:\Users\USER\programming\cpp_cig\35p_libexample\35p_libexample\bin\Debug\net8.0\35p_libexample.dll
+C:\Users\USER\programming\cpp_cig\35p_libexample\35p_libexample\bin\Debug\net8.0\35p_libexample.pdb
+C:\Users\USER\programming\cpp_cig\35p_libexample\35p_libexample\obj\Debug\net8.0\35p_libexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\cpp_cig\35p_libexample\35p_libexample\obj\Debug\net8.0\35p_libexample.AssemblyInfoInputs.cache
+C:\Users\USER\programming\cpp_cig\35p_libexample\35p_libexample\obj\Debug\net8.0\35p_libexample.AssemblyInfo.cs
+C:\Users\USER\programming\cpp_cig\35p_libexample\35p_libexample\obj\Debug\net8.0\35p_libexample.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\cpp_cig\35p_libexample\35p_libexample\obj\Debug\net8.0\35p_libexample.dll
+C:\Users\USER\programming\cpp_cig\35p_libexample\35p_libexample\obj\Debug\net8.0\refint\35p_libexample.dll
+C:\Users\USER\programming\cpp_cig\35p_libexample\35p_libexample\obj\Debug\net8.0\35p_libexample.pdb
+C:\Users\USER\programming\cpp_cig\35p_libexample\35p_libexample\obj\Debug\net8.0\35p_libexample.genruntimeconfig.cache
+C:\Users\USER\programming\cpp_cig\35p_libexample\35p_libexample\obj\Debug\net8.0\ref\35p_libexample.dll
