@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\radiation_simple\radiation_simple\obj\Debug\net8.0\radiation_simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\radiation_simple\radiation_simple\obj\Debug\net8.0\radiation_simple.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\radiation_simple\radiation_simple\obj\Debug\net8.0\radiation_simple.AssemblyInfo.cs
+C:\Users\USER\programming\c#\radiation_simple\radiation_simple\obj\Debug\net8.0\radiation_simple.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\radiation_simple\radiation_simple\bin\Debug\net8.0\radiation_simple.exe
+C:\Users\USER\programming\c#\radiation_simple\radiation_simple\bin\Debug\net8.0\radiation_simple.deps.json
+C:\Users\USER\programming\c#\radiation_simple\radiation_simple\bin\Debug\net8.0\radiation_simple.runtimeconfig.json
+C:\Users\USER\programming\c#\radiation_simple\radiation_simple\bin\Debug\net8.0\radiation_simple.dll
+C:\Users\USER\programming\c#\radiation_simple\radiation_simple\bin\Debug\net8.0\radiation_simple.pdb
+C:\Users\USER\programming\c#\radiation_simple\radiation_simple\obj\Debug\net8.0\radiation_simple.dll
+C:\Users\USER\programming\c#\radiation_simple\radiation_simple\obj\Debug\net8.0\refint\radiation_simple.dll
+C:\Users\USER\programming\c#\radiation_simple\radiation_simple\obj\Debug\net8.0\radiation_simple.pdb
+C:\Users\USER\programming\c#\radiation_simple\radiation_simple\obj\Debug\net8.0\radiation_simple.genruntimeconfig.cache
+C:\Users\USER\programming\c#\radiation_simple\radiation_simple\obj\Debug\net8.0\ref\radiation_simple.dll

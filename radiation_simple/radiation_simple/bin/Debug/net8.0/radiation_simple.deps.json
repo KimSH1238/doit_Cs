@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "radiation_simple/1.0.0": {
+        "runtime": {
+          "radiation_simple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "radiation_simple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
