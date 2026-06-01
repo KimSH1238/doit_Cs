@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\22p_redbluegreen_libexample2\22p_redbluegreen_libexample2\obj\Debug\net8.0\22p_redbluegreen_libexample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\22p_redbluegreen_libexample2\22p_redbluegreen_libexample2\obj\Debug\net8.0\22p_redbluegreen_libexample2.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\22p_redbluegreen_libexample2\22p_redbluegreen_libexample2\obj\Debug\net8.0\22p_redbluegreen_libexample2.AssemblyInfo.cs
+C:\Users\USER\programming\c#\22p_redbluegreen_libexample2\22p_redbluegreen_libexample2\obj\Debug\net8.0\22p_redbluegreen_libexample2.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\22p_redbluegreen_libexample2\22p_redbluegreen_libexample2\bin\Debug\net8.0\22p_redbluegreen_libexample2.exe
+C:\Users\USER\programming\c#\22p_redbluegreen_libexample2\22p_redbluegreen_libexample2\bin\Debug\net8.0\22p_redbluegreen_libexample2.deps.json
+C:\Users\USER\programming\c#\22p_redbluegreen_libexample2\22p_redbluegreen_libexample2\bin\Debug\net8.0\22p_redbluegreen_libexample2.runtimeconfig.json
+C:\Users\USER\programming\c#\22p_redbluegreen_libexample2\22p_redbluegreen_libexample2\bin\Debug\net8.0\22p_redbluegreen_libexample2.dll
+C:\Users\USER\programming\c#\22p_redbluegreen_libexample2\22p_redbluegreen_libexample2\bin\Debug\net8.0\22p_redbluegreen_libexample2.pdb
+C:\Users\USER\programming\c#\22p_redbluegreen_libexample2\22p_redbluegreen_libexample2\obj\Debug\net8.0\22p_redbluegreen_libexample2.dll
+C:\Users\USER\programming\c#\22p_redbluegreen_libexample2\22p_redbluegreen_libexample2\obj\Debug\net8.0\refint\22p_redbluegreen_libexample2.dll
+C:\Users\USER\programming\c#\22p_redbluegreen_libexample2\22p_redbluegreen_libexample2\obj\Debug\net8.0\22p_redbluegreen_libexample2.pdb
+C:\Users\USER\programming\c#\22p_redbluegreen_libexample2\22p_redbluegreen_libexample2\obj\Debug\net8.0\22p_redbluegreen_libexample2.genruntimeconfig.cache
+C:\Users\USER\programming\c#\22p_redbluegreen_libexample2\22p_redbluegreen_libexample2\obj\Debug\net8.0\ref\22p_redbluegreen_libexample2.dll
