@@ -1,0 +1,14 @@
+C:\Users\USER\programming\cpp_cig\34p_libexample\34p_libexample\obj\Debug\net8.0\34p_libexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\cpp_cig\34p_libexample\34p_libexample\obj\Debug\net8.0\34p_libexample.AssemblyInfoInputs.cache
+C:\Users\USER\programming\cpp_cig\34p_libexample\34p_libexample\obj\Debug\net8.0\34p_libexample.AssemblyInfo.cs
+C:\Users\USER\programming\cpp_cig\34p_libexample\34p_libexample\obj\Debug\net8.0\34p_libexample.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\cpp_cig\34p_libexample\34p_libexample\bin\Debug\net8.0\34p_libexample.exe
+C:\Users\USER\programming\cpp_cig\34p_libexample\34p_libexample\bin\Debug\net8.0\34p_libexample.deps.json
+C:\Users\USER\programming\cpp_cig\34p_libexample\34p_libexample\bin\Debug\net8.0\34p_libexample.runtimeconfig.json
+C:\Users\USER\programming\cpp_cig\34p_libexample\34p_libexample\bin\Debug\net8.0\34p_libexample.dll
+C:\Users\USER\programming\cpp_cig\34p_libexample\34p_libexample\bin\Debug\net8.0\34p_libexample.pdb
+C:\Users\USER\programming\cpp_cig\34p_libexample\34p_libexample\obj\Debug\net8.0\34p_libexample.dll
+C:\Users\USER\programming\cpp_cig\34p_libexample\34p_libexample\obj\Debug\net8.0\refint\34p_libexample.dll
+C:\Users\USER\programming\cpp_cig\34p_libexample\34p_libexample\obj\Debug\net8.0\34p_libexample.pdb
+C:\Users\USER\programming\cpp_cig\34p_libexample\34p_libexample\obj\Debug\net8.0\34p_libexample.genruntimeconfig.cache
+C:\Users\USER\programming\cpp_cig\34p_libexample\34p_libexample\obj\Debug\net8.0\ref\34p_libexample.dll
