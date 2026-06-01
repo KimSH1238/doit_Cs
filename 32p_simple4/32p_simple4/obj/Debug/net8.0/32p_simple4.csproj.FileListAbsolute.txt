@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\32p_simple4\32p_simple4\bin\Debug\net8.0\32p_simple4.exe
+C:\Users\USER\programming\c#\32p_simple4\32p_simple4\bin\Debug\net8.0\32p_simple4.deps.json
+C:\Users\USER\programming\c#\32p_simple4\32p_simple4\bin\Debug\net8.0\32p_simple4.runtimeconfig.json
+C:\Users\USER\programming\c#\32p_simple4\32p_simple4\bin\Debug\net8.0\32p_simple4.dll
+C:\Users\USER\programming\c#\32p_simple4\32p_simple4\bin\Debug\net8.0\32p_simple4.pdb
+C:\Users\USER\programming\c#\32p_simple4\32p_simple4\obj\Debug\net8.0\32p_simple4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\32p_simple4\32p_simple4\obj\Debug\net8.0\32p_simple4.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\32p_simple4\32p_simple4\obj\Debug\net8.0\32p_simple4.AssemblyInfo.cs
+C:\Users\USER\programming\c#\32p_simple4\32p_simple4\obj\Debug\net8.0\32p_simple4.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\32p_simple4\32p_simple4\obj\Debug\net8.0\32p_simple4.dll
+C:\Users\USER\programming\c#\32p_simple4\32p_simple4\obj\Debug\net8.0\refint\32p_simple4.dll
+C:\Users\USER\programming\c#\32p_simple4\32p_simple4\obj\Debug\net8.0\32p_simple4.pdb
+C:\Users\USER\programming\c#\32p_simple4\32p_simple4\obj\Debug\net8.0\32p_simple4.genruntimeconfig.cache
+C:\Users\USER\programming\c#\32p_simple4\32p_simple4\obj\Debug\net8.0\ref\32p_simple4.dll
