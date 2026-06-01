@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\19p_libexample_llong\19p_libexample_llong\obj\Debug\net8.0\19p_libexample_llong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\19p_libexample_llong\19p_libexample_llong\obj\Debug\net8.0\19p_libexample_llong.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\19p_libexample_llong\19p_libexample_llong\obj\Debug\net8.0\19p_libexample_llong.AssemblyInfo.cs
+C:\Users\USER\programming\c#\19p_libexample_llong\19p_libexample_llong\obj\Debug\net8.0\19p_libexample_llong.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\19p_libexample_llong\19p_libexample_llong\bin\Debug\net8.0\19p_libexample_llong.exe
+C:\Users\USER\programming\c#\19p_libexample_llong\19p_libexample_llong\bin\Debug\net8.0\19p_libexample_llong.deps.json
+C:\Users\USER\programming\c#\19p_libexample_llong\19p_libexample_llong\bin\Debug\net8.0\19p_libexample_llong.runtimeconfig.json
+C:\Users\USER\programming\c#\19p_libexample_llong\19p_libexample_llong\bin\Debug\net8.0\19p_libexample_llong.dll
+C:\Users\USER\programming\c#\19p_libexample_llong\19p_libexample_llong\bin\Debug\net8.0\19p_libexample_llong.pdb
+C:\Users\USER\programming\c#\19p_libexample_llong\19p_libexample_llong\obj\Debug\net8.0\19p_libexample_llong.dll
+C:\Users\USER\programming\c#\19p_libexample_llong\19p_libexample_llong\obj\Debug\net8.0\refint\19p_libexample_llong.dll
+C:\Users\USER\programming\c#\19p_libexample_llong\19p_libexample_llong\obj\Debug\net8.0\19p_libexample_llong.pdb
+C:\Users\USER\programming\c#\19p_libexample_llong\19p_libexample_llong\obj\Debug\net8.0\19p_libexample_llong.genruntimeconfig.cache
+C:\Users\USER\programming\c#\19p_libexample_llong\19p_libexample_llong\obj\Debug\net8.0\ref\19p_libexample_llong.dll
