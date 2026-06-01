@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\31p_libexample\31p_libexample\obj\Debug\net8.0\31p_libexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\31p_libexample\31p_libexample\obj\Debug\net8.0\31p_libexample.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\31p_libexample\31p_libexample\obj\Debug\net8.0\31p_libexample.AssemblyInfo.cs
+C:\Users\USER\programming\c#\31p_libexample\31p_libexample\obj\Debug\net8.0\31p_libexample.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\31p_libexample\31p_libexample\bin\Debug\net8.0\31p_libexample.exe
+C:\Users\USER\programming\c#\31p_libexample\31p_libexample\bin\Debug\net8.0\31p_libexample.deps.json
+C:\Users\USER\programming\c#\31p_libexample\31p_libexample\bin\Debug\net8.0\31p_libexample.runtimeconfig.json
+C:\Users\USER\programming\c#\31p_libexample\31p_libexample\bin\Debug\net8.0\31p_libexample.dll
+C:\Users\USER\programming\c#\31p_libexample\31p_libexample\bin\Debug\net8.0\31p_libexample.pdb
+C:\Users\USER\programming\c#\31p_libexample\31p_libexample\obj\Debug\net8.0\31p_libexample.dll
+C:\Users\USER\programming\c#\31p_libexample\31p_libexample\obj\Debug\net8.0\refint\31p_libexample.dll
+C:\Users\USER\programming\c#\31p_libexample\31p_libexample\obj\Debug\net8.0\31p_libexample.pdb
+C:\Users\USER\programming\c#\31p_libexample\31p_libexample\obj\Debug\net8.0\31p_libexample.genruntimeconfig.cache
+C:\Users\USER\programming\c#\31p_libexample\31p_libexample\obj\Debug\net8.0\ref\31p_libexample.dll
