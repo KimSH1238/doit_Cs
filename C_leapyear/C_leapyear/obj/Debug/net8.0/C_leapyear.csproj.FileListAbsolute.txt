@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\C_leapyear\C_leapyear\bin\Debug\net8.0\C_leapyear.exe
+C:\Users\USER\programming\c#\C_leapyear\C_leapyear\bin\Debug\net8.0\C_leapyear.deps.json
+C:\Users\USER\programming\c#\C_leapyear\C_leapyear\bin\Debug\net8.0\C_leapyear.runtimeconfig.json
+C:\Users\USER\programming\c#\C_leapyear\C_leapyear\bin\Debug\net8.0\C_leapyear.dll
+C:\Users\USER\programming\c#\C_leapyear\C_leapyear\bin\Debug\net8.0\C_leapyear.pdb
+C:\Users\USER\programming\c#\C_leapyear\C_leapyear\obj\Debug\net8.0\C_leapyear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\C_leapyear\C_leapyear\obj\Debug\net8.0\C_leapyear.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\C_leapyear\C_leapyear\obj\Debug\net8.0\C_leapyear.AssemblyInfo.cs
+C:\Users\USER\programming\c#\C_leapyear\C_leapyear\obj\Debug\net8.0\C_leapyear.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\C_leapyear\C_leapyear\obj\Debug\net8.0\C_leapyear.dll
+C:\Users\USER\programming\c#\C_leapyear\C_leapyear\obj\Debug\net8.0\refint\C_leapyear.dll
+C:\Users\USER\programming\c#\C_leapyear\C_leapyear\obj\Debug\net8.0\C_leapyear.pdb
+C:\Users\USER\programming\c#\C_leapyear\C_leapyear\obj\Debug\net8.0\C_leapyear.genruntimeconfig.cache
+C:\Users\USER\programming\c#\C_leapyear\C_leapyear\obj\Debug\net8.0\ref\C_leapyear.dll
