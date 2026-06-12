@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\celsius_fe\celsius_fe\obj\Debug\net8.0\celsius_fe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\celsius_fe\celsius_fe\obj\Debug\net8.0\celsius_fe.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\celsius_fe\celsius_fe\obj\Debug\net8.0\celsius_fe.AssemblyInfo.cs
+C:\Users\USER\programming\c#\celsius_fe\celsius_fe\obj\Debug\net8.0\celsius_fe.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\celsius_fe\celsius_fe\bin\Debug\net8.0\celsius_fe.exe
+C:\Users\USER\programming\c#\celsius_fe\celsius_fe\bin\Debug\net8.0\celsius_fe.deps.json
+C:\Users\USER\programming\c#\celsius_fe\celsius_fe\bin\Debug\net8.0\celsius_fe.runtimeconfig.json
+C:\Users\USER\programming\c#\celsius_fe\celsius_fe\bin\Debug\net8.0\celsius_fe.dll
+C:\Users\USER\programming\c#\celsius_fe\celsius_fe\bin\Debug\net8.0\celsius_fe.pdb
+C:\Users\USER\programming\c#\celsius_fe\celsius_fe\obj\Debug\net8.0\celsius_fe.dll
+C:\Users\USER\programming\c#\celsius_fe\celsius_fe\obj\Debug\net8.0\refint\celsius_fe.dll
+C:\Users\USER\programming\c#\celsius_fe\celsius_fe\obj\Debug\net8.0\celsius_fe.pdb
+C:\Users\USER\programming\c#\celsius_fe\celsius_fe\obj\Debug\net8.0\celsius_fe.genruntimeconfig.cache
+C:\Users\USER\programming\c#\celsius_fe\celsius_fe\obj\Debug\net8.0\ref\celsius_fe.dll
