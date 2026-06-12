@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\C_198p_1\C_198p_1\obj\Debug\net8.0\C_198p_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\C_198p_1\C_198p_1\obj\Debug\net8.0\C_198p_1.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\C_198p_1\C_198p_1\obj\Debug\net8.0\C_198p_1.AssemblyInfo.cs
+C:\Users\USER\programming\c#\C_198p_1\C_198p_1\obj\Debug\net8.0\C_198p_1.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\C_198p_1\C_198p_1\bin\Debug\net8.0\C_198p_1.exe
+C:\Users\USER\programming\c#\C_198p_1\C_198p_1\bin\Debug\net8.0\C_198p_1.deps.json
+C:\Users\USER\programming\c#\C_198p_1\C_198p_1\bin\Debug\net8.0\C_198p_1.runtimeconfig.json
+C:\Users\USER\programming\c#\C_198p_1\C_198p_1\bin\Debug\net8.0\C_198p_1.dll
+C:\Users\USER\programming\c#\C_198p_1\C_198p_1\bin\Debug\net8.0\C_198p_1.pdb
+C:\Users\USER\programming\c#\C_198p_1\C_198p_1\obj\Debug\net8.0\C_198p_1.dll
+C:\Users\USER\programming\c#\C_198p_1\C_198p_1\obj\Debug\net8.0\refint\C_198p_1.dll
+C:\Users\USER\programming\c#\C_198p_1\C_198p_1\obj\Debug\net8.0\C_198p_1.pdb
+C:\Users\USER\programming\c#\C_198p_1\C_198p_1\obj\Debug\net8.0\C_198p_1.genruntimeconfig.cache
+C:\Users\USER\programming\c#\C_198p_1\C_198p_1\obj\Debug\net8.0\ref\C_198p_1.dll
