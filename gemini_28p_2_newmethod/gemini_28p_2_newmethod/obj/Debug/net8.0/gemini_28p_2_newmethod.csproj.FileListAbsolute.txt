@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\gemini_28p_2_newmethod\gemini_28p_2_newmethod\obj\Debug\net8.0\gemini_28p_2_newmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\gemini_28p_2_newmethod\gemini_28p_2_newmethod\obj\Debug\net8.0\gemini_28p_2_newmethod.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\gemini_28p_2_newmethod\gemini_28p_2_newmethod\obj\Debug\net8.0\gemini_28p_2_newmethod.AssemblyInfo.cs
+C:\Users\USER\programming\c#\gemini_28p_2_newmethod\gemini_28p_2_newmethod\obj\Debug\net8.0\gemini_28p_2_newmethod.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\gemini_28p_2_newmethod\gemini_28p_2_newmethod\bin\Debug\net8.0\gemini_28p_2_newmethod.exe
+C:\Users\USER\programming\c#\gemini_28p_2_newmethod\gemini_28p_2_newmethod\bin\Debug\net8.0\gemini_28p_2_newmethod.deps.json
+C:\Users\USER\programming\c#\gemini_28p_2_newmethod\gemini_28p_2_newmethod\bin\Debug\net8.0\gemini_28p_2_newmethod.runtimeconfig.json
+C:\Users\USER\programming\c#\gemini_28p_2_newmethod\gemini_28p_2_newmethod\bin\Debug\net8.0\gemini_28p_2_newmethod.dll
+C:\Users\USER\programming\c#\gemini_28p_2_newmethod\gemini_28p_2_newmethod\bin\Debug\net8.0\gemini_28p_2_newmethod.pdb
+C:\Users\USER\programming\c#\gemini_28p_2_newmethod\gemini_28p_2_newmethod\obj\Debug\net8.0\gemini_28p_2_newmethod.dll
+C:\Users\USER\programming\c#\gemini_28p_2_newmethod\gemini_28p_2_newmethod\obj\Debug\net8.0\refint\gemini_28p_2_newmethod.dll
+C:\Users\USER\programming\c#\gemini_28p_2_newmethod\gemini_28p_2_newmethod\obj\Debug\net8.0\gemini_28p_2_newmethod.pdb
+C:\Users\USER\programming\c#\gemini_28p_2_newmethod\gemini_28p_2_newmethod\obj\Debug\net8.0\gemini_28p_2_newmethod.genruntimeconfig.cache
+C:\Users\USER\programming\c#\gemini_28p_2_newmethod\gemini_28p_2_newmethod\obj\Debug\net8.0\ref\gemini_28p_2_newmethod.dll
