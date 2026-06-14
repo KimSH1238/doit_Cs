@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\43p\43p\bin\Debug\net8.0\43p.exe
+C:\Users\USER\programming\c#\43p\43p\bin\Debug\net8.0\43p.deps.json
+C:\Users\USER\programming\c#\43p\43p\bin\Debug\net8.0\43p.runtimeconfig.json
+C:\Users\USER\programming\c#\43p\43p\bin\Debug\net8.0\43p.dll
+C:\Users\USER\programming\c#\43p\43p\bin\Debug\net8.0\43p.pdb
+C:\Users\USER\programming\c#\43p\43p\obj\Debug\net8.0\43p.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\43p\43p\obj\Debug\net8.0\43p.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\43p\43p\obj\Debug\net8.0\43p.AssemblyInfo.cs
+C:\Users\USER\programming\c#\43p\43p\obj\Debug\net8.0\43p.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\43p\43p\obj\Debug\net8.0\43p.dll
+C:\Users\USER\programming\c#\43p\43p\obj\Debug\net8.0\refint\43p.dll
+C:\Users\USER\programming\c#\43p\43p\obj\Debug\net8.0\43p.pdb
+C:\Users\USER\programming\c#\43p\43p\obj\Debug\net8.0\43p.genruntimeconfig.cache
+C:\Users\USER\programming\c#\43p\43p\obj\Debug\net8.0\ref\43p.dll
