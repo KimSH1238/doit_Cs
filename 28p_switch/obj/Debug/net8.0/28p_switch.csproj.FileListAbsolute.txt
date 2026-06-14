@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\28p_switch\28p_switch\bin\Debug\net8.0\28p_switch.exe
+C:\Users\USER\programming\c#\28p_switch\28p_switch\bin\Debug\net8.0\28p_switch.deps.json
+C:\Users\USER\programming\c#\28p_switch\28p_switch\bin\Debug\net8.0\28p_switch.runtimeconfig.json
+C:\Users\USER\programming\c#\28p_switch\28p_switch\bin\Debug\net8.0\28p_switch.dll
+C:\Users\USER\programming\c#\28p_switch\28p_switch\bin\Debug\net8.0\28p_switch.pdb
+C:\Users\USER\programming\c#\28p_switch\28p_switch\obj\Debug\net8.0\28p_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\28p_switch\28p_switch\obj\Debug\net8.0\28p_switch.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\28p_switch\28p_switch\obj\Debug\net8.0\28p_switch.AssemblyInfo.cs
+C:\Users\USER\programming\c#\28p_switch\28p_switch\obj\Debug\net8.0\28p_switch.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\28p_switch\28p_switch\obj\Debug\net8.0\28p_switch.dll
+C:\Users\USER\programming\c#\28p_switch\28p_switch\obj\Debug\net8.0\refint\28p_switch.dll
+C:\Users\USER\programming\c#\28p_switch\28p_switch\obj\Debug\net8.0\28p_switch.pdb
+C:\Users\USER\programming\c#\28p_switch\28p_switch\obj\Debug\net8.0\28p_switch.genruntimeconfig.cache
+C:\Users\USER\programming\c#\28p_switch\28p_switch\obj\Debug\net8.0\ref\28p_switch.dll
