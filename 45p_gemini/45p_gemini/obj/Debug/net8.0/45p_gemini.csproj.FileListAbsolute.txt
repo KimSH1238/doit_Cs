@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\45p_gemini\45p_gemini\bin\Debug\net8.0\45p_gemini.exe
+C:\Users\USER\programming\c#\45p_gemini\45p_gemini\bin\Debug\net8.0\45p_gemini.deps.json
+C:\Users\USER\programming\c#\45p_gemini\45p_gemini\bin\Debug\net8.0\45p_gemini.runtimeconfig.json
+C:\Users\USER\programming\c#\45p_gemini\45p_gemini\bin\Debug\net8.0\45p_gemini.dll
+C:\Users\USER\programming\c#\45p_gemini\45p_gemini\bin\Debug\net8.0\45p_gemini.pdb
+C:\Users\USER\programming\c#\45p_gemini\45p_gemini\obj\Debug\net8.0\45p_gemini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\45p_gemini\45p_gemini\obj\Debug\net8.0\45p_gemini.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\45p_gemini\45p_gemini\obj\Debug\net8.0\45p_gemini.AssemblyInfo.cs
+C:\Users\USER\programming\c#\45p_gemini\45p_gemini\obj\Debug\net8.0\45p_gemini.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\45p_gemini\45p_gemini\obj\Debug\net8.0\45p_gemini.dll
+C:\Users\USER\programming\c#\45p_gemini\45p_gemini\obj\Debug\net8.0\refint\45p_gemini.dll
+C:\Users\USER\programming\c#\45p_gemini\45p_gemini\obj\Debug\net8.0\45p_gemini.pdb
+C:\Users\USER\programming\c#\45p_gemini\45p_gemini\obj\Debug\net8.0\45p_gemini.genruntimeconfig.cache
+C:\Users\USER\programming\c#\45p_gemini\45p_gemini\obj\Debug\net8.0\ref\45p_gemini.dll
