@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\40p\40p\bin\Debug\net8.0\40p.exe
+C:\Users\USER\programming\c#\40p\40p\bin\Debug\net8.0\40p.deps.json
+C:\Users\USER\programming\c#\40p\40p\bin\Debug\net8.0\40p.runtimeconfig.json
+C:\Users\USER\programming\c#\40p\40p\bin\Debug\net8.0\40p.dll
+C:\Users\USER\programming\c#\40p\40p\bin\Debug\net8.0\40p.pdb
+C:\Users\USER\programming\c#\40p\40p\obj\Debug\net8.0\40p.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\40p\40p\obj\Debug\net8.0\40p.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\40p\40p\obj\Debug\net8.0\40p.AssemblyInfo.cs
+C:\Users\USER\programming\c#\40p\40p\obj\Debug\net8.0\40p.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\40p\40p\obj\Debug\net8.0\40p.dll
+C:\Users\USER\programming\c#\40p\40p\obj\Debug\net8.0\refint\40p.dll
+C:\Users\USER\programming\c#\40p\40p\obj\Debug\net8.0\40p.pdb
+C:\Users\USER\programming\c#\40p\40p\obj\Debug\net8.0\40p.genruntimeconfig.cache
+C:\Users\USER\programming\c#\40p\40p\obj\Debug\net8.0\ref\40p.dll
