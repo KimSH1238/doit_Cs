@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\boiler_internalFlow\boiler_internalFlow\obj\Debug\net8.0\boiler_internalFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\boiler_internalFlow\boiler_internalFlow\obj\Debug\net8.0\boiler_internalFlow.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\boiler_internalFlow\boiler_internalFlow\obj\Debug\net8.0\boiler_internalFlow.AssemblyInfo.cs
+C:\Users\USER\programming\c#\boiler_internalFlow\boiler_internalFlow\obj\Debug\net8.0\boiler_internalFlow.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\boiler_internalFlow\boiler_internalFlow\bin\Debug\net8.0\boiler_internalFlow.exe
+C:\Users\USER\programming\c#\boiler_internalFlow\boiler_internalFlow\bin\Debug\net8.0\boiler_internalFlow.deps.json
+C:\Users\USER\programming\c#\boiler_internalFlow\boiler_internalFlow\bin\Debug\net8.0\boiler_internalFlow.runtimeconfig.json
+C:\Users\USER\programming\c#\boiler_internalFlow\boiler_internalFlow\bin\Debug\net8.0\boiler_internalFlow.dll
+C:\Users\USER\programming\c#\boiler_internalFlow\boiler_internalFlow\bin\Debug\net8.0\boiler_internalFlow.pdb
+C:\Users\USER\programming\c#\boiler_internalFlow\boiler_internalFlow\obj\Debug\net8.0\boiler_internalFlow.dll
+C:\Users\USER\programming\c#\boiler_internalFlow\boiler_internalFlow\obj\Debug\net8.0\refint\boiler_internalFlow.dll
+C:\Users\USER\programming\c#\boiler_internalFlow\boiler_internalFlow\obj\Debug\net8.0\boiler_internalFlow.pdb
+C:\Users\USER\programming\c#\boiler_internalFlow\boiler_internalFlow\obj\Debug\net8.0\boiler_internalFlow.genruntimeconfig.cache
+C:\Users\USER\programming\c#\boiler_internalFlow\boiler_internalFlow\obj\Debug\net8.0\ref\boiler_internalFlow.dll
