@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "gemini_28p_3_newmethod/1.0.0": {
+        "runtime": {
+          "gemini_28p_3_newmethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gemini_28p_3_newmethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
