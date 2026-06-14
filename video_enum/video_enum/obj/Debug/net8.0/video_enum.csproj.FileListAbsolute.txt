@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\video_enum\video_enum\obj\Debug\net8.0\video_enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\video_enum\video_enum\obj\Debug\net8.0\video_enum.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\video_enum\video_enum\obj\Debug\net8.0\video_enum.AssemblyInfo.cs
+C:\Users\USER\programming\c#\video_enum\video_enum\obj\Debug\net8.0\video_enum.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\video_enum\video_enum\bin\Debug\net8.0\video_enum.exe
+C:\Users\USER\programming\c#\video_enum\video_enum\bin\Debug\net8.0\video_enum.deps.json
+C:\Users\USER\programming\c#\video_enum\video_enum\bin\Debug\net8.0\video_enum.runtimeconfig.json
+C:\Users\USER\programming\c#\video_enum\video_enum\bin\Debug\net8.0\video_enum.dll
+C:\Users\USER\programming\c#\video_enum\video_enum\bin\Debug\net8.0\video_enum.pdb
+C:\Users\USER\programming\c#\video_enum\video_enum\obj\Debug\net8.0\video_enum.dll
+C:\Users\USER\programming\c#\video_enum\video_enum\obj\Debug\net8.0\refint\video_enum.dll
+C:\Users\USER\programming\c#\video_enum\video_enum\obj\Debug\net8.0\video_enum.pdb
+C:\Users\USER\programming\c#\video_enum\video_enum\obj\Debug\net8.0\video_enum.genruntimeconfig.cache
+C:\Users\USER\programming\c#\video_enum\video_enum\obj\Debug\net8.0\ref\video_enum.dll

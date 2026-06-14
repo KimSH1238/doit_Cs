@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\tryparse.prac\tryparse.prac\obj\Debug\net8.0\tryparse.prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\tryparse.prac\tryparse.prac\obj\Debug\net8.0\tryparse.prac.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\tryparse.prac\tryparse.prac\obj\Debug\net8.0\tryparse.prac.AssemblyInfo.cs
+C:\Users\USER\programming\c#\tryparse.prac\tryparse.prac\obj\Debug\net8.0\tryparse.prac.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\tryparse.prac\tryparse.prac\bin\Debug\net8.0\tryparse.prac.exe
+C:\Users\USER\programming\c#\tryparse.prac\tryparse.prac\bin\Debug\net8.0\tryparse.prac.deps.json
+C:\Users\USER\programming\c#\tryparse.prac\tryparse.prac\bin\Debug\net8.0\tryparse.prac.runtimeconfig.json
+C:\Users\USER\programming\c#\tryparse.prac\tryparse.prac\bin\Debug\net8.0\tryparse.prac.dll
+C:\Users\USER\programming\c#\tryparse.prac\tryparse.prac\bin\Debug\net8.0\tryparse.prac.pdb
+C:\Users\USER\programming\c#\tryparse.prac\tryparse.prac\obj\Debug\net8.0\tryparse.prac.dll
+C:\Users\USER\programming\c#\tryparse.prac\tryparse.prac\obj\Debug\net8.0\refint\tryparse.prac.dll
+C:\Users\USER\programming\c#\tryparse.prac\tryparse.prac\obj\Debug\net8.0\tryparse.prac.pdb
+C:\Users\USER\programming\c#\tryparse.prac\tryparse.prac\obj\Debug\net8.0\tryparse.prac.genruntimeconfig.cache
+C:\Users\USER\programming\c#\tryparse.prac\tryparse.prac\obj\Debug\net8.0\ref\tryparse.prac.dll
