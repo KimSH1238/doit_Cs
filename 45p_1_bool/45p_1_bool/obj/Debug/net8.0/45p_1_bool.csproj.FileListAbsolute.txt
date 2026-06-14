@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\45p_1_bool\45p_1_bool\obj\Debug\net8.0\45p_1_bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\45p_1_bool\45p_1_bool\obj\Debug\net8.0\45p_1_bool.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\45p_1_bool\45p_1_bool\obj\Debug\net8.0\45p_1_bool.AssemblyInfo.cs
+C:\Users\USER\programming\c#\45p_1_bool\45p_1_bool\obj\Debug\net8.0\45p_1_bool.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\45p_1_bool\45p_1_bool\bin\Debug\net8.0\45p_1_bool.exe
+C:\Users\USER\programming\c#\45p_1_bool\45p_1_bool\bin\Debug\net8.0\45p_1_bool.deps.json
+C:\Users\USER\programming\c#\45p_1_bool\45p_1_bool\bin\Debug\net8.0\45p_1_bool.runtimeconfig.json
+C:\Users\USER\programming\c#\45p_1_bool\45p_1_bool\bin\Debug\net8.0\45p_1_bool.dll
+C:\Users\USER\programming\c#\45p_1_bool\45p_1_bool\bin\Debug\net8.0\45p_1_bool.pdb
+C:\Users\USER\programming\c#\45p_1_bool\45p_1_bool\obj\Debug\net8.0\45p_1_bool.dll
+C:\Users\USER\programming\c#\45p_1_bool\45p_1_bool\obj\Debug\net8.0\refint\45p_1_bool.dll
+C:\Users\USER\programming\c#\45p_1_bool\45p_1_bool\obj\Debug\net8.0\45p_1_bool.pdb
+C:\Users\USER\programming\c#\45p_1_bool\45p_1_bool\obj\Debug\net8.0\45p_1_bool.genruntimeconfig.cache
+C:\Users\USER\programming\c#\45p_1_bool\45p_1_bool\obj\Debug\net8.0\ref\45p_1_bool.dll
