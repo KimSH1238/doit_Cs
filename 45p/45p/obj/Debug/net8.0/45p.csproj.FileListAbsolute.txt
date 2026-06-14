@@ -1,0 +1,14 @@
+C:\Users\USER\programming\c#\45p\45p\obj\Debug\net8.0\45p.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\programming\c#\45p\45p\obj\Debug\net8.0\45p.AssemblyInfoInputs.cache
+C:\Users\USER\programming\c#\45p\45p\obj\Debug\net8.0\45p.AssemblyInfo.cs
+C:\Users\USER\programming\c#\45p\45p\obj\Debug\net8.0\45p.csproj.CoreCompileInputs.cache
+C:\Users\USER\programming\c#\45p\45p\bin\Debug\net8.0\45p.exe
+C:\Users\USER\programming\c#\45p\45p\bin\Debug\net8.0\45p.deps.json
+C:\Users\USER\programming\c#\45p\45p\bin\Debug\net8.0\45p.runtimeconfig.json
+C:\Users\USER\programming\c#\45p\45p\bin\Debug\net8.0\45p.dll
+C:\Users\USER\programming\c#\45p\45p\bin\Debug\net8.0\45p.pdb
+C:\Users\USER\programming\c#\45p\45p\obj\Debug\net8.0\45p.dll
+C:\Users\USER\programming\c#\45p\45p\obj\Debug\net8.0\refint\45p.dll
+C:\Users\USER\programming\c#\45p\45p\obj\Debug\net8.0\45p.pdb
+C:\Users\USER\programming\c#\45p\45p\obj\Debug\net8.0\45p.genruntimeconfig.cache
+C:\Users\USER\programming\c#\45p\45p\obj\Debug\net8.0\ref\45p.dll
